@@ -1,0 +1,16 @@
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\bin\Debug\CafeManagementSys.exe.config
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\bin\Debug\CafeManagementSys.exe
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\bin\Debug\CafeManagementSys.pdb
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\bin\Debug\Guna.UI2.dll
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.csprojResolveAssemblyReference.cache
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.Properties.Resources.resources
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.csproj.GenerateResource.Cache
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.exe
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.pdb
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.Dashboard.resources
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.Login.resources
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.UserControls.UC_Welcome.resources
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.UserControls.UC_AddItem.resources
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.UserControls.UC_PlaceOrder.resources
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.UserControls.UC_Update.resources
+E:\VIT\Subjects\Winter Semester\ITA6002 C#\Lab\CafeManagementSys\CafeManagementSys\obj\Debug\CafeManagementSys.UserControls.UC_RemoveItem.resources
